@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:53559404
+NODE:I LEVEL:0 LINE:24 "C:\Program Files (x86)\codevision\inc\mega16.h"
+NODE:I LEVEL:0 LINE:25 "C:\Program Files (x86)\codevision\inc\delay.h"
+NODE:I LEVEL:0 LINE:26 "C:\Program Files (x86)\codevision\inc\alcd.h"
+NODE:I LEVEL:0 LINE:27 "C:\Program Files (x86)\codevision\inc\stdio.h"
+NODE:V LEVEL:0 LINE:29 "str -> RAM:????"
+NODE:V LEVEL:0 LINE:30 "h -> R4,R5"
+NODE:V LEVEL:0 LINE:30 "m -> R6,R7"
+NODE:V LEVEL:0 LINE:30 "s -> R8,R9"
+NODE:F LEVEL:0 LINE:32 "timer1_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:50 "main(void)"
